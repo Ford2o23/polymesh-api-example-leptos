@@ -139,3 +139,7 @@ cargo install wasm-bindgen-cli --version 0.2.105
 ## License
 
 This project is provided as-is for educational purposes.
+
+## Mirror Notice
+
+This repository is a mirror of the original project. Original authorship and commit history are preserved.
